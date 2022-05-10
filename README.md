@@ -25,6 +25,7 @@ python convert.py --weights ./weights/yolov3-tiny.weights --output ./weights/yol
 You may also download the generated Tensorflow models through the following link (then save to ./weights):
 https://drive.google.com/drive/folders/1CqP1sA0fdmyhopt4iuoIk2Om7HLWIGUf?usp=sharing
 
+
 ### Run Person and Vehicle Counter
 Using YOLOv3 Model:
 ```
@@ -35,9 +36,11 @@ Using YOLOv3 Tiny Model:
 main_tiny.ipynb
 ```
 
+
 ## Test Data
 Download: https://drive.google.com/file/d/1hMTFYq6_LsXYuDdMp_da94fHx39hlWgQ/view?usp=sharing
 Note: save test data to ./data/video folder
+
 
 ## References:
 Python: Real-time Multiple Object Tracking (MOT) with Yolov3, Tensorflow and Deep SORT [FULL COURSE] by eMaster Class Academy
