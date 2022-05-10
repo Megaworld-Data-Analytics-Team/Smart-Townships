@@ -33,6 +33,10 @@ Using YOLOv3 Tiny Model:
 main_tiny.ipynb
 ```
 
+## Test Data
+https://drive.google.com/file/d/1hMTFYq6_LsXYuDdMp_da94fHx39hlWgQ/view?usp=sharing
+Note: save test data to ./data/video folder
+
 ## References:
 Python: Real-time Multiple Object Tracking (MOT) with Yolov3, Tensorflow and Deep SORT [FULL COURSE] by eMaster Class Academy
 https://youtu.be/zi-62z-3c4U
