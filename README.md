@@ -32,3 +32,7 @@ Using YOLOv3 Tiny Model:
 ```
 main_tiny.ipynb
 ```
+
+## References:
+Python: Real-time Multiple Object Tracking (MOT) with Yolov3, Tensorflow and Deep SORT [FULL COURSE] by eMaster Class Academy
+https://youtu.be/zi-62z-3c4U
