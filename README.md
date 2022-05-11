@@ -27,13 +27,21 @@ https://drive.google.com/drive/folders/1CqP1sA0fdmyhopt4iuoIk2Om7HLWIGUf?usp=sha
 
 
 ### Run Person and Vehicle Counter
-Using YOLOv3 Model:
+Using YOLOv3 Model (with Detection Zone):
 ```
 main.ipynb
 ```
-Using YOLOv3 Tiny Model:
+Using YOLOv3 Tiny Model (with Detection Zone):
 ```
 main_tiny.ipynb
+```
+Using YOLOv3 Model (detects on Whole Frame):
+```
+main_whole-frame.ipynb
+```
+Using YOLOv3 Tiny Model (detects on Whole Frame):
+```
+main_tiny_whole-frame.ipynb
 ```
 
 
