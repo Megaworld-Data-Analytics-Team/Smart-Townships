@@ -11,14 +11,14 @@ $git clone https://github.com/Megaworld-Data-Analytics-Team/Person-and-Vehicle-C
 
 For YOLOv3:
 1. Download pre-trained weights of YOLOv3:
-    https://pjreddie.com/media/files/yolov3.weights
+    - https://pjreddie.com/media/files/yolov3.weights
 2. Save yolov3.weights to ./weights folder
-3. Download the checkpoints folder, then save to repository
-    https://drive.google.com/drive/folders/1LeBnZjTcvEAZkkcmBgeLWS4_Ha-On26v?usp=sharing
+3. Download the checkpoints folder, then save to repository under the same folder name
+    - (https://drive.google.com/drive/folders/1LeBnZjTcvEAZkkcmBgeLWS4_Ha-On26v?usp=sharing)
 
 For YOLOv3 tiny:
 1. Download pre-trained weights of YOLOv3 Tiny
-  - https://pjreddie.com/media/files/yolov3-tiny.weights
+    - https://pjreddie.com/media/files/yolov3-tiny.weights
 2. Save weights to the repository's ./weights folder
 3. Execute the following code in Anaconda prompt (cd *local directory*):
 ```
