@@ -1,26 +1,28 @@
 # Person-and-Vehicle-Counter
 
-## Steps:
+## Steps
 
 ### Clone Repository
 ```
 $git clone https://github.com/Megaworld-Data-Analytics-Team/Person-and-Vehicle-Counter.git
 ```
 
-### Generate Tensorflow model of YOLOv3
-1. Download pre-trained weights of YOLOv3 and YOLOv3 Tiny
-  - https://pjreddie.com/media/files/yolov3.weights
-  - https://pjreddie.com/media/files/yolov3-tiny.weights
-2. Save weights to the repository's ./weights folder
-3. Execute the following code in Anaconda prompt (cd *local directory*)
+### Obtain Tensorflow model of YOLOv3 / YOLOv3 Tiny
 
 For YOLOv3:
-```
-python convert.py
-```
+1. Download pre-trained weights of YOLOv3:
+  - https://pjreddie.com/media/files/yolov3.weights
+2. Save yolov3.weights to ./weights folder
+3. Download the checkpoints folder, then save to repository
+  - https://drive.google.com/drive/folders/1LeBnZjTcvEAZkkcmBgeLWS4_Ha-On26v?usp=sharing
+
 For YOLOv3 tiny:
+1. Download pre-trained weights of YOLOv3 Tiny
+  - https://pjreddie.com/media/files/yolov3-tiny.weights
+2. Save weights to the repository's ./weights folder
+3. Execute the following code in Anaconda prompt (cd *local directory*):
 ```
-python convert.py --weights ./weights/yolov3-tiny.weights --output ./weights/yolov3-tiny.tf --tiny
+python convert.py --weights ./weights/yolov3-tiny.weights --output ./checkpoints_tiny/yolov3-tiny.tf --tiny
 ```
 You may also download the generated Tensorflow models through the following link (then save to ./weights):
 https://drive.google.com/drive/folders/1CqP1sA0fdmyhopt4iuoIk2Om7HLWIGUf?usp=sharing
