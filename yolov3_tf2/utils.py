@@ -171,3 +171,6 @@ def convert_boxes(image, boxes):
         if box != [0,0,0,0]:
             returned_boxes.append(box)
     return returned_boxes
+
+def preprocess_image(x_train, size):
+    return (tf.image.resize(x_train, (size, size))) / 255
