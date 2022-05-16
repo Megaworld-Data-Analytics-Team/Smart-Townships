@@ -55,3 +55,12 @@ Note: save test data to ./data/video folder
 ## References:
 Python: Real-time Multiple Object Tracking (MOT) with Yolov3, Tensorflow and Deep SORT [FULL COURSE] by eMaster Class Academy
 https://youtu.be/zi-62z-3c4U
+
+# Facial Sentiment Detection
+## Steps
+1. Download prediction models and save them to directory
+    - https://drive.google.com/drive/folders/1DbiBhYoROeKZy58umuORPKs13rGwDd5d?usp=sharing
+2. Run the code:
+```
+Age, Gender, and Emotion Detection.ipynb
+```
