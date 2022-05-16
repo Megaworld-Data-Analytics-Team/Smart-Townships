@@ -15,7 +15,7 @@ For YOLOv3:
 2. Save yolov3.weights to ./weights folder
 3. Download the checkpoint/tf files, then save to repository under ./checkpoints
     - https://drive.google.com/drive/folders/1LeBnZjTcvEAZkkcmBgeLWS4_Ha-On26v?usp=sharing
-
+<br />
 For YOLOv3 tiny:
 1. Download pre-trained weights of YOLOv3 Tiny
     - https://pjreddie.com/media/files/yolov3-tiny.weights
@@ -27,7 +27,7 @@ python convert.py --weights ./weights/yolov3-tiny.weights --output ./checkpoints
 You may also download the generated Tensorflow models through the following link (then save to ./weights):
 https://drive.google.com/drive/folders/1CqP1sA0fdmyhopt4iuoIk2Om7HLWIGUf?usp=sharing
 
-
+<br />
 ### Run Person and Vehicle Counter
 Using YOLOv3 Model (with Detection Zone):
 ```
@@ -45,18 +45,18 @@ Using YOLOv3 Tiny Model (detects on Whole Frame):
 ```
 main_tiny_whole-frame.ipynb
 ```
-
+<br />
 
 ## Test Data
 (UPDATED 5-16-2022) <br />
 Download: https://drive.google.com/drive/folders/1_pF952TQmR4aCSZYXuGDmhgPKDkJBwRR?usp=sharing <br />
-Note: save the downloaded 'video' folder to ./data folder
+Note: save the downloaded 'video' folder to ./data folder <br />
 
 
 ## References:
-Python: Real-time Multiple Object Tracking (MOT) with Yolov3, Tensorflow and Deep SORT [FULL COURSE] by eMaster Class Academy
+Python: Real-time Multiple Object Tracking (MOT) with Yolov3, Tensorflow and Deep SORT [FULL COURSE] by eMaster Class Academy <br />
 https://youtu.be/zi-62z-3c4U
-
+<br />
 # Facial Sentiment Detection
 ## Steps
 1. Download prediction models and save them to directory
