@@ -48,8 +48,8 @@ main_tiny_whole-frame.ipynb
 
 
 ## Test Data
-(UPDATED 5-16-2022)
-Download: https://drive.google.com/drive/folders/1_pF952TQmR4aCSZYXuGDmhgPKDkJBwRR?usp=sharing
+(UPDATED 5-16-2022) <br />
+Download: https://drive.google.com/drive/folders/1_pF952TQmR4aCSZYXuGDmhgPKDkJBwRR?usp=sharing <br />
 Note: save the downloaded 'video' folder to ./data folder
 
 
