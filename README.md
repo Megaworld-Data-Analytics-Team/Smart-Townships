@@ -25,9 +25,9 @@ For YOLOv3 tiny:
 python convert.py --weights ./weights/yolov3-tiny.weights --output ./checkpoints_tiny/yolov3-tiny.tf --tiny
 ```
 You may also download the generated Tensorflow models through the following link (then save to ./weights):
-https://drive.google.com/drive/folders/1CqP1sA0fdmyhopt4iuoIk2Om7HLWIGUf?usp=sharing
+https://drive.google.com/drive/folders/1CqP1sA0fdmyhopt4iuoIk2Om7HLWIGUf?usp=sharing <br />
 
-<br />
+
 ### Run Person and Vehicle Counter
 Using YOLOv3 Model (with Detection Zone):
 ```
