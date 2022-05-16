@@ -14,8 +14,8 @@ For YOLOv3:
     - https://pjreddie.com/media/files/yolov3.weights
 2. Save yolov3.weights to ./weights folder
 3. Download the checkpoint/tf files, then save to repository under ./checkpoints
-    - https://drive.google.com/drive/folders/1LeBnZjTcvEAZkkcmBgeLWS4_Ha-On26v?usp=sharing
-<br />
+    - https://drive.google.com/drive/folders/1LeBnZjTcvEAZkkcmBgeLWS4_Ha-On26v?usp=sharing <br />
+
 For YOLOv3 tiny:
 1. Download pre-trained weights of YOLOv3 Tiny
     - https://pjreddie.com/media/files/yolov3-tiny.weights
