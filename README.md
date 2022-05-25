@@ -31,7 +31,7 @@ https://drive.google.com/drive/folders/1CqP1sA0fdmyhopt4iuoIk2Om7HLWIGUf?usp=sha
 
 
 ### Run Person and Vehicle Counter
-*Found at notebooks/person and vehicle counter/original*  
+Located at: *notebooks/person and vehicle counter/original*  
 Using YOLOv3 Model (with Detection Zone):
 ```
 main.ipynb
@@ -61,7 +61,7 @@ Follow the steps: https://docs.openvino.ai/latest/openvino_docs_install_guides_i
     - Activate OpenVINO Virtual Environment
     - Launch Jupyter Notebook/Jupyter Lab
 2. Execute the code in the repository:
-    *Found at notebooks/person and vehicle counter/openvino*  
+    Located at: *notebooks/person and vehicle counter/openvino*  
     Counter with DeepSORT Tracking (optimal):
     ```
     main_whole-frame_OpenVINO_DeepSORT
