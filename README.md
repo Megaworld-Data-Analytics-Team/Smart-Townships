@@ -66,16 +66,16 @@ omz_downloader --name person-vehicle-bike-detection-crossroad-0078
 1. In command terminal:
     - Activate OpenVINO Virtual Environment
     - Launch Jupyter Notebook/Jupyter Lab
-2. Execute the code in the repository:
+2. Execute the code in the repository
     Located at: *notebooks/person and vehicle counter/openvino*  
-    Counter with DeepSORT Tracking (optimal):
-    ```
-    main_whole-frame_OpenVINO_DeepSORT
-    ```
-    Counter with Centroid Tracking
-    ```
-    main_whole-frame_OpenVINO_CentroidTracker
-    ```
+    - Counter with DeepSORT Tracking (optimal):
+        ```
+        main_whole-frame_OpenVINO_DeepSORT
+        ```
+    - Counter with Centroid Tracking
+        ```
+        main_whole-frame_OpenVINO_CentroidTracker
+        ```
 <br />
 
 ## Test Data
