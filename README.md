@@ -70,6 +70,7 @@ Follow the steps: https://docs.openvino.ai/latest/openvino_docs_install_guides_i
     ```
     main_whole-frame_OpenVINO_CentroidTracker
     ```
+<br />
 
 ## Test Data
 (UPDATED 5-16-2022) <br />
