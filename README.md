@@ -1,5 +1,8 @@
 # Person-and-Vehicle-Counter
 
+Welcome to the Person-and-Vehicle Counter repository! These programs enable automated counting of persons and vehicles in video streams. The counter programs are implemented either using YOLOv3 models or through the OpenVINO Toolkit. You may view instructions on these corresponding sections below.
+Moreover, additional programs on demographic and sentiment prediction based on facial features are also included. 
+
 ## Clone Repository
 ```
 $git clone https://github.com/Megaworld-Data-Analytics-Team/Person-and-Vehicle-Counter.git
