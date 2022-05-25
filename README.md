@@ -88,7 +88,7 @@ https://youtu.be/zi-62z-3c4U
 ## Steps
 1. Download prediction models and save them to directory
     - https://drive.google.com/drive/folders/1DbiBhYoROeKZy58umuORPKs13rGwDd5d?usp=sharing
-2. Run the code:
+2. Run the code:  
 Located at: *notebooks/demographics and sentiment detection*  
 Haarcascades Version:
 ```
