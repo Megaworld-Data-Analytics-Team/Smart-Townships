@@ -93,14 +93,14 @@ https://youtu.be/zi-62z-3c4U
 # Facial Sentiment Detection
 ## Steps
 1. Download prediction models and save them to directory  
-    Haarcascades Models:  
-    - https://drive.google.com/drive/folders/1DbiBhYoROeKZy58umuORPKs13rGwDd5d?usp=sharing  
-    OpenVINO Models:  
-    OpenCV Face Detection - https://github.com/opencv/opencv_zoo/blob/master/models/face_detection_yunet/face_detection_yunet_2022mar.onnx  
-    ```
-    omz_downloader --name age-gender-recognition-retail-0013
-    omz_downloader --name emotions-recognition-retail-0003
-    ```
+    - Haarcascades Models:  
+        - https://drive.google.com/drive/folders/1DbiBhYoROeKZy58umuORPKs13rGwDd5d?usp=sharing
+    - OpenVINO Models:  
+        - OpenCV Face Detection - https://github.com/opencv/opencv_zoo/blob/master/models/face_detection_yunet/face_detection_yunet_2022mar.onnx  
+        ```
+        omz_downloader --name age-gender-recognition-retail-0013
+        omz_downloader --name emotions-recognition-retail-0003
+        ```
 2. Run the code:  
     Located at: *notebooks/demographics and sentiment detection*  
     Haarcascades Version:
