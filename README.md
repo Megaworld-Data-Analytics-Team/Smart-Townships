@@ -1,12 +1,11 @@
 # Person-and-Vehicle-Counter
 
-## Steps
-
-### Clone Repository
+## Clone Repository
 ```
 $git clone https://github.com/Megaworld-Data-Analytics-Team/Person-and-Vehicle-Counter.git
 ```
 
+## YOLOv3 Models
 ### Obtain Tensorflow model of YOLOv3 / YOLOv3 Tiny
 
 For YOLOv3:
@@ -29,6 +28,7 @@ https://drive.google.com/drive/folders/1CqP1sA0fdmyhopt4iuoIk2Om7HLWIGUf?usp=sha
 
 
 ### Run Person and Vehicle Counter
+*Found at notebooks/person and vehicle counter/original*
 Using YOLOv3 Model (with Detection Zone):
 ```
 main.ipynb
@@ -47,6 +47,27 @@ main_tiny_whole-frame.ipynb
 ```
 <br />
 
+
+## OpenVINO Intel Models
+
+### Install OpenVINO Development Tools
+Follow the steps: https://docs.openvino.ai/latest/openvino_docs_install_guides_install_dev_tools.html
+
+### Run Person and Vehicle Counter Using OpenVINO Models
+1. In command terminal:
+    - Activate OpenVINO Virtual Environment
+    - Launch Jupyter Notebook/Jupyter Lab
+2. Execute the code in the repository:
+    *Found at notebooks/person and vehicle counter/openvino*
+    Counter with DeepSORT Tracking (optimal):
+    ```
+    main_whole-frame_OpenVINO_DeepSORT
+    ```
+    Counter with Centroid Tracking
+    ```
+    main_whole-frame_OpenVINO_CentroidTracker
+    ```
+
 ## Test Data
 (UPDATED 5-16-2022) <br />
 Download: https://drive.google.com/drive/folders/1_pF952TQmR4aCSZYXuGDmhgPKDkJBwRR?usp=sharing <br />
@@ -57,11 +78,19 @@ Note: save the downloaded 'video' folder to ./data folder <br />
 Python: Real-time Multiple Object Tracking (MOT) with Yolov3, Tensorflow and Deep SORT [FULL COURSE] by eMaster Class Academy <br />
 https://youtu.be/zi-62z-3c4U
 <br />
+
+
 # Facial Sentiment Detection
 ## Steps
 1. Download prediction models and save them to directory
     - https://drive.google.com/drive/folders/1DbiBhYoROeKZy58umuORPKs13rGwDd5d?usp=sharing
 2. Run the code:
+*Found at notebooks/demographics and sentiment detection*
+Haarcascades Version:
 ```
 Age, Gender, and Emotion Detection.ipynb
+```
+OpenVINO Version
+```
+Demographics-and-Sentiment_Detection
 ```
