@@ -1,6 +1,6 @@
 # Smart Townships
 
-Welcome to the Smart Townships repository! These programs enable automated counting of persons and vehicles in video streams. The counter programs are implemented either through YOLOv3 models or OpenVINO Intel Models. You may view instructions on these corresponding sections below.
+Welcome to the Smart Townships repository! The repository includes automated counting of persons and vehicles in video streams. The counter programs are implemented either through YOLOv3 models or OpenVINO Intel Models. You may view instructions on these corresponding sections below.
 Moreover, additional programs on demographic and sentiment prediction based on facial features are also included. 
 
 ## Clone Repository
