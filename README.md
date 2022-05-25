@@ -89,7 +89,7 @@ https://youtu.be/zi-62z-3c4U
 1. Download prediction models and save them to directory
     - https://drive.google.com/drive/folders/1DbiBhYoROeKZy58umuORPKs13rGwDd5d?usp=sharing
 2. Run the code:
-*Found at notebooks/demographics and sentiment detection*
+Located at: *notebooks/demographics and sentiment detection*  
 Haarcascades Version:
 ```
 Age, Gender, and Emotion Detection.ipynb
