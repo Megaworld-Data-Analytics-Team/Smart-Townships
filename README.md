@@ -115,8 +115,8 @@ https://youtu.be/zi-62z-3c4U
 
 # Anomaly Detection
 ## Steps
-1. Download test video from: https://drive.google.com/drive/folders/13y5XE7e_uERP0q0YhCblb3MwCNdOyMc4?usp=sharing and save to ./data/video folder
-2. Change *video_path* variable in main_anomaly-detector.ipynb
+1. Download a test video from: https://drive.google.com/drive/folders/13y5XE7e_uERP0q0YhCblb3MwCNdOyMc4?usp=sharing and save to ./data/video folder
+2. Modify *video_path* variable in main_anomaly-detector.ipynb
 3. Run the code:
         ```
         main_anomaly-detector.ipynb
