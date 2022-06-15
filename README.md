@@ -111,4 +111,13 @@ https://youtu.be/zi-62z-3c4U
     OpenVINO Version
     ```
     Demographics-and-Sentiment_Detection.ipynb
-    ```
+    ```  
+
+# Anomaly Detection
+## Steps
+1. Download test video from: https://drive.google.com/drive/folders/13y5XE7e_uERP0q0YhCblb3MwCNdOyMc4?usp=sharing and save to ./data/video folder
+2. Change *video_path* variable in main_anomaly-detector.ipynb
+3. Run the code:
+        ```
+        main_anomaly-detector.ipynb
+        ```
