@@ -120,4 +120,13 @@ https://youtu.be/zi-62z-3c4U
 3. Run the code:
         ```
         main_anomaly-detector.ipynb
+        ```  
+  
+
+# Vehicle Collision Detection
+1. Download Megaworld CCTV and YouTube Accidents folders from https://drive.google.com/drive/folders/1DimdhmjoxQprqZAGVysdl0bsXUJbeP5H?usp=sharing, and save to ./data/video folder
+2. Select a path in the *vid* variable (section: "Track Using Video") in main_whole-frame_YOLOv3_Accident.ipynb
+3. Run the code:
         ```
+        main_whole-frame_YOLOv3_Accident.ipynb
+        ```  
