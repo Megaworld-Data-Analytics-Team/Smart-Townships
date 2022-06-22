@@ -125,9 +125,9 @@ https://youtu.be/zi-62z-3c4U
 
 # Vehicle Collision Detection
 ## Steps
-1. Download Megaworld CCTV and YouTube Accidents folders from https://drive.google.com/drive/folders/1DimdhmjoxQprqZAGVysdl0bsXUJbeP5H?usp=sharing then save to ./data/video folder
-2. Select a path for the *vid* variable (section: "Track Using Video") in main_whole-frame_YOLOv3_Accident.ipynb
-3. Install *pyod* and *pysad* packages
+1. Install *pyod* and *pysad* packages
+2. Download Megaworld CCTV and YouTube Accidents folders from https://drive.google.com/drive/folders/1DimdhmjoxQprqZAGVysdl0bsXUJbeP5H?usp=sharing then save to ./data/video folder
+3. Select a path for the *vid* variable (section: "Track Using Video") in main_whole-frame_YOLOv3_Accident.ipynb
 4. Run the code:
         ```
         main_whole-frame_YOLOv3_Accident.ipynb
